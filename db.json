@@ -77,5 +77,38 @@
     "os": "iOS 12",
     "expireDateTime": "2020-03-17T11:00:00.000Z"
   }
-]
+],
+  "customs-offices": {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "customsOfficeId": "CH009010",
+        "name": "Flora Park"
+      },
+      "geometry": {
+        "coordinates": [
+          7.436864,
+          46.943198
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "customsOfficeId": "CH001141",
+        "name": "Boncourt/Delle-Autoroute"
+      },
+      "geometry": {
+        "coordinates": [
+          7.0157,
+          47.496021
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
 }
