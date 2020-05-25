@@ -1,14 +1,44 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "perimeter-versions": [
+   {
+      "id":5,
+      "versionId":"5",
+      "creationDateTime":"2020-04-03T09:00:00.000Z",
+      "releaseDateTime":null,
+      "state":"ARCHIVED",
+      "releaseNotes":"PerimeterVersion die Geofences in Kappelen, Au, Seftigen und Zürich enthält für erste interne Tests.",
+      "createdBy":"Benjamin Schneider",
+      "releasedBy":null
+   },
+   {
+      "id":9,
+      "versionId":"9",
+      "creationDateTime":"2020-04-14T08:30:00.000Z",
+      "releaseDateTime":null,
+      "state":"READY_TO_TEST",
+      "releaseNotes":"Activ INT Zonen + Testzonen für Claudia, Jürg, Thomas, Jonas und Benni",
+      "createdBy":"Benjamin Schneider",
+      "releasedBy":null
+   },
+   {
+      "id":8,
+      "versionId":"8",
+      "creationDateTime":"2020-04-09T08:00:00.000Z",
+      "releaseDateTime":null,
+      "state":"ARCHIVED",
+      "releaseNotes":"Aktualisierte Geofence-Version",
+      "createdBy":"Benjamin Schneider",
+      "releasedBy":null
+   },
+   {
+      "id":10,
+      "versionId":"10",
+      "creationDateTime":"2020-05-06T12:30:00.000Z",
+      "releaseDateTime":null,
+      "state":"READY_TO_TEST",
+      "releaseNotes":"PeriodicGeofences",
+      "createdBy":"Benjamin Schneider",
+      "releasedBy":null
+   }
+]
 }
