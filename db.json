@@ -43,6 +43,7 @@
   ],
   "test-devices": [
   {
+    "isActive": true,
     "deviceId": 1,
     "name": "TestDevice 1",
     "model": "Samsung Galaxy S8",
@@ -50,6 +51,7 @@
     "expireDateTime": "2020-09-14T10:00:00.000Z"
   },
   {
+    "isActive": false,
     "deviceId": 2,
     "name": "TestDevice 2",
     "model": "iPhone 11",
@@ -57,6 +59,7 @@
     "expireDateTime": "2020-07-15T14:00:00.000Z"
   },
   {
+    "isActive": true,
     "deviceId": 3,
     "name": "TestDevice 3",
     "model": "Huawei Nexus 6P",
@@ -64,6 +67,7 @@
     "expireDateTime": "2020-07-16T12:00:00.000Z"
   },
   {
+    "isActive": false,
     "deviceId": 4,
     "name": "TestDevice 4",
     "model": "Samsung Galaxy S9",
@@ -71,6 +75,7 @@
     "expireDateTime": "2020-04-16T19:00:00.000Z"
   },
   {
+    "isActive": false,
     "deviceId": 5,
     "name": "TestDevice 5",
     "model": "iPhone XR",
