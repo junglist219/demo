@@ -43,35 +43,35 @@
   ],
   "test-devices": [
   {
-    "id": 1,
+    "deviceId": 1,
     "name": "TestDevice 1",
     "model": "Samsung Galaxy S8",
     "os": "Android 9",
     "expireDateTime": "2020-09-14T10:00:00.000Z"
   },
   {
-    "id": 2,
+    "deviceId": 2,
     "name": "TestDevice 2",
     "model": "iPhone 11",
     "os": "iOS 12",
     "expireDateTime": "2020-07-15T14:00:00.000Z"
   },
   {
-    "id": 3,
+    "deviceId": 3,
     "name": "TestDevice 3",
     "model": "Huawei Nexus 6P",
     "os": "Android 8",
     "expireDateTime": "2020-07-16T12:00:00.000Z"
   },
   {
-    "id": 4,
+    "deviceId": 4,
     "name": "TestDevice 4",
     "model": "Samsung Galaxy S9",
     "os": "Android 10",
     "expireDateTime": "2020-04-16T19:00:00.000Z"
   },
   {
-    "id": 5,
+    "deviceId": 5,
     "name": "TestDevice 5",
     "model": "iPhone XR",
     "os": "iOS 12",
