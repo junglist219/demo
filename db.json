@@ -40,7 +40,7 @@
       "id":9,
       "versionId":"9",
       "creationDateTime":"2020-04-14T08:30:00.000Z",
-      "releaseDateTime":null,
+      "releaseDateTime":"2020-04-14T08:30:00.000Z",
       "state":"PUBLISHED",
       "releaseNotes":"Activ INT Zonen + Testzonen für Claudia, Jürg, Thomas, Jonas und Benni",
       "createdBy":"Benjamin Schneider",
@@ -105,7 +105,7 @@
       ]
     },
     "releaseNotes": "ReleaseNotes",
-    "createdBy": "Testuser",
+    "createdBy": "Benjamin Schneider",
     "releasedBy": null
   }
   ],
