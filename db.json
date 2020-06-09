@@ -39,7 +39,44 @@
       "releaseNotes":"PeriodicGeofences",
       "createdBy":"Benjamin Schneider",
       "releasedBy":null
-   }
+   },
+   {
+      "id": 11,
+      "versionId": "11",
+      "creationDateTime": "2020-04-14T08:30:00.000Z",
+      "releaseDateTime": null,
+      "state": "EDITING",
+      "geofencePerimeter": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [7.667083740234376, 47.62166964211776],
+                [7.697982788085938, 47.62120682516924],
+                [7.691116333007813, 47.607320411466404],
+                [7.668457031250001, 47.60523713135211],
+                [7.667083740234376, 47.62166964211776]
+              ]
+            ]
+          },
+          "properties": {
+            "id": 1,
+            "name": "Basel/Weil am Rhein-Autobahn",
+            "type": "tracking",
+            "customsOfficeId": "CH001801"
+          }
+        }
+      ]
+    },
+    // "beaconPerimeter": null,
+    "releaseNotes": "ReleaseNotes",
+    "createdBy": "Testuser",
+    "releasedBy": null
+  }
   ],
   "test-devices": [
   {
