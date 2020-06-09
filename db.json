@@ -1,16 +1,6 @@
 {
   "perimeter-versions": [
    {
-      "id":5,
-      "versionId":"5",
-      "creationDateTime":"2020-04-03T09:00:00.000Z",
-      "releaseDateTime":null,
-      "state":"ARCHIVED",
-      "releaseNotes":"PerimeterVersion die Geofences in Kappelen, Au, Seftigen und Zürich enthält für erste interne Tests.",
-      "createdBy":"Benjamin Schneider",
-      "releasedBy":null
-   },
-   {
       "id":8,
       "versionId":"8",
       "creationDateTime":"2020-04-09T08:00:00.000Z",
@@ -18,7 +8,33 @@
       "state":"ARCHIVED",
       "releaseNotes":"Aktualisierte Geofence-Version",
       "createdBy":"Benjamin Schneider",
-      "releasedBy":null
+      "releasedBy":"Benjamin Schneider",
+      "geofencePerimeter": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [7.667083740234376, 47.62166964211776],
+                [7.697982788085938, 47.62120682516924],
+                [7.691116333007813, 47.607320411466404],
+                [7.668457031250001, 47.60523713135211],
+                [7.667083740234376, 47.62166964211776]
+              ]
+            ]
+          },
+          "properties": {
+            "id": 1,
+            "name": "Basel/Weil am Rhein-Autobahn",
+            "type": "tracking",
+            "customsOfficeId": "CH001801"
+          }
+        }
+      ]
+    },
    },
    {
       "id":9,
@@ -28,17 +44,33 @@
       "state":"PUBLISHED",
       "releaseNotes":"Activ INT Zonen + Testzonen für Claudia, Jürg, Thomas, Jonas und Benni",
       "createdBy":"Benjamin Schneider",
-      "releasedBy":null
-   },
-   {
-      "id":10,
-      "versionId":"10",
-      "creationDateTime":"2020-05-06T12:30:00.000Z",
-      "releaseDateTime":null,
-      "state":"READY_TO_TEST",
-      "releaseNotes":"PeriodicGeofences",
-      "createdBy":"Benjamin Schneider",
-      "releasedBy":null
+      "releasedBy":"Benjamin Schneider",
+      "geofencePerimeter": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [7.667083740234376, 47.62166964211776],
+                [7.697982788085938, 47.62120682516924],
+                [7.691116333007813, 47.607320411466404],
+                [7.668457031250001, 47.60523713135211],
+                [7.667083740234376, 47.62166964211776]
+              ]
+            ]
+          },
+          "properties": {
+            "id": 1,
+            "name": "Basel/Weil am Rhein-Autobahn",
+            "type": "tracking",
+            "customsOfficeId": "CH001801"
+          }
+        }
+      ]
+    },
    },
    {
       "id": 11,
