@@ -8,6 +8,7 @@
     "name": "TestDevice 1",
     "model": "Samsung Galaxy S8",
     "os": "Android 9",
+    "registrationDateTime": "2020-06-14T10:00:00.000Z",
     "expireDateTime": "2020-09-14T10:00:00.000Z"
   },
   {
@@ -17,6 +18,7 @@
     "name": "TestDevice 2",
     "model": "iPhone 11",
     "os": "iOS 12",
+    "registrationDateTime": "2020-04-16T10:00:00.000Z",
     "expireDateTime": "2020-07-15T14:00:00.000Z"
   },
   {
@@ -26,6 +28,7 @@
     "name": "TestDevice 3",
     "model": "Huawei Nexus 6P",
     "os": "Android 8",
+    "registrationDateTime": "2020-05-08T10:00:00.000Z",
     "expireDateTime": "2020-07-16T12:00:00.000Z"
   },
   {
@@ -35,6 +38,7 @@
     "name": "TestDevice 4",
     "model": "Samsung Galaxy S9",
     "os": "Android 10",
+    "registrationDateTime": "2020-06-14T11:00:00.000Z",
     "expireDateTime": "2020-04-16T19:00:00.000Z"
   },
   {
@@ -44,6 +48,7 @@
     "name": "TestDevice 5",
     "model": "iPhone XR",
     "os": "iOS 12",
+    "registrationDateTime": "2020-05-01T10:00:00.000Z",
     "expireDateTime": "2020-03-17T11:00:00.000Z"
   }
 ],
