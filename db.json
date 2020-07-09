@@ -1,5 +1,26 @@
 {
-  "perimeter-versions": [{"basedOnVersionId":22,"releaseNotes":"","createdBy":"Claudia Bleisch","releasedBy":"Claudia Bleisch","versionId":23,"creationDateTime":"2020-06-10T17:37:42.214481+02:00","releaseDateTime":"2020-06-10T17:38:04.404766+02:00","state":"ARCHIVED"},{"basedOnVersionId":23,"releaseNotes":"","createdBy":"Claudia Bleisch","releasedBy":"Claudia Bleisch","versionId":24,"creationDateTime":"2020-06-10T17:38:44.766227+02:00","releaseDateTime":"2020-06-10T17:39:20.446388+02:00","state":"ARCHIVED"},{"basedOnVersionId":24,"releaseNotes":"","createdBy":"Claudia Bleisch","releasedBy":"Claudia Bleisch","versionId":25,"creationDateTime":"2020-06-10T17:51:06.507621+02:00","releaseDateTime":"2020-06-10T17:51:22.35573+02:00","state":"ARCHIVED"},{"basedOnVersionId":4,"releaseNotes":"","createdBy":"Claudia Bleisch","releasedBy":"","versionId":19,"creationDateTime":"2020-06-09T13:01:21.814684+02:00","releaseDateTime":null,"state":"SKIPPED"},{"basedOnVersionId":25,"releaseNotes":"","createdBy":"Claudia Bleisch","releasedBy":"Claudia Bleisch","versionId":26,"creationDateTime":"2020-06-10T17:55:22.798924+02:00","releaseDateTime":"2020-06-10T17:56:35.74492+02:00","state":"ARCHIVED"},{"basedOnVersionId":null,"releaseNotes":"Auto generated initial version.","createdBy":"System","releasedBy":"Claudia Bleisch","versionId":4,"creationDateTime":"2020-05-28T07:12:08.684357+02:00","releaseDateTime":"2020-06-03T07:07:24.045518+02:00","state":"ARCHIVED"},{"basedOnVersionId":26,"releaseNotes":"","createdBy":"Claudia Bleisch","releasedBy":"Claudia Bleisch","versionId":27,"creationDateTime":"2020-06-11T09:15:25.327858+02:00","releaseDateTime":"2020-06-11T09:15:50.124846+02:00","state":"ARCHIVED"},{"basedOnVersionId":27,"releaseNotes":"","createdBy":"Claudia Bleisch","releasedBy":"Claudia Bleisch","versionId":28,"creationDateTime":"2020-06-11T09:16:06.713259+02:00","releaseDateTime":"2020-06-11T09:16:15.927648+02:00","state":"ARCHIVED"},{"basedOnVersionId":19,"releaseNotes":"","createdBy":"Claudia Bleisch","releasedBy":"Claudia Bleisch","versionId":20,"creationDateTime":"2020-06-10T11:59:34.661366+02:00","releaseDateTime":"2020-06-10T13:30:02.296574+02:00","state":"ARCHIVED"},{"basedOnVersionId":28,"releaseNotes":"","createdBy":"Claudia Bleisch","releasedBy":"Claudia Bleisch","versionId":29,"creationDateTime":"2020-06-11T10:07:36.595225+02:00","releaseDateTime":"2020-06-11T10:08:00.462455+02:00","state":"ARCHIVED"},{"basedOnVersionId":20,"releaseNotes":"","createdBy":"Claudia Bleisch","releasedBy":"Claudia Bleisch","versionId":21,"creationDateTime":"2020-06-10T16:42:20.279459+02:00","releaseDateTime":"2020-06-10T16:44:01.630798+02:00","state":"ARCHIVED"},{"basedOnVersionId":29,"releaseNotes":"","createdBy":"Claudia Bleisch","releasedBy":"Claudia Bleisch","versionId":30,"creationDateTime":"2020-06-11T10:08:14.270002+02:00","releaseDateTime":"2020-06-11T10:08:35.444216+02:00","state":"ARCHIVED"},{"basedOnVersionId":21,"releaseNotes":"","createdBy":"Claudia Bleisch","releasedBy":"Claudia Bleisch","versionId":22,"creationDateTime":"2020-06-10T17:35:22.224544+02:00","releaseDateTime":"2020-06-10T17:36:53.062751+02:00","state":"ARCHIVED"},{"basedOnVersionId":31,"releaseNotes":"","createdBy":"Claudia Bleisch","releasedBy":"Claudia Bleisch","versionId":32,"creationDateTime":"2020-06-11T11:43:01.931029+02:00","releaseDateTime":"2020-06-11T11:50:02.038685+02:00","state":"PUBLISHED"},{"basedOnVersionId":30,"releaseNotes":"","createdBy":"Claudia Bleisch","releasedBy":"Claudia Bleisch","versionId":31,"creationDateTime":"2020-06-11T10:08:51.82394+02:00","releaseDateTime":"2020-06-11T10:09:35.646923+02:00","state":"ARCHIVED"},{"basedOnVersionId":32,"releaseNotes":"","createdBy":"Claudia Bleisch","releasedBy":"","versionId":33,"creationDateTime":"2020-06-11T13:13:19.969968+02:00","releaseDateTime":null,"state":"READY_TO_TEST"}],
+  "perimeter-versions": [
+  {
+    "basedOnVersionId": 22,
+    "releaseNotes": "",
+    "createdBy": "Claudia Bleisch",
+    "releasedBy": "Claudia Bleisch",
+    "versionId": 23,
+    "creationDateTime": "2020-06-10T17:37:42.214481+02:00",
+    "releaseDateTime": "2020-06-10T17:38:04.404766+02:00",
+    "state": "ARCHIVED"
+  },
+  {
+    "basedOnVersionId": 23,
+    "releaseNotes": "",
+    "createdBy": "Claudia Bleisch",
+    "releasedBy": "Claudia Bleisch",
+    "versionId": 24,
+    "creationDateTime": "2020-06-10T17:38:44.766227+02:00",
+    "releaseDateTime": "2020-06-10T17:39:20.446388+02:00",
+    "state": "PUBLISHED"
+  }
+],
   "test-devices": [
   {
   	"uuid": "1234",
