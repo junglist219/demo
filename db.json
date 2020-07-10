@@ -19,6 +19,16 @@
     "creationDateTime": "2020-06-10T17:38:44.766227+02:00",
     "releaseDateTime": "2020-06-10T17:39:20.446388+02:00",
     "state": "PUBLISHED"
+  },
+  {
+    "basedOnVersionId": 24,
+    "releaseNotes": "",
+    "createdBy": "Claudia Bleisch",
+    "releasedBy": "Claudia Bleisch",
+    "versionId": 25,
+    "creationDateTime": "2020-06-10T17:38:44.766227+02:00",
+    "releaseDateTime": null,
+    "state": "EDITING"
   }
 ],
   "test-devices": [
